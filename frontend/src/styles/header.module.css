@@ -1,0 +1,22 @@
+.header{
+
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    
+}
+.logo{
+    width: 80px;
+    height: auto;
+}
+
+.link {
+    display: flex;
+    gap: 20px;
+}
+.link a {
+    color: black;
+    font-size: 25px;
+}
